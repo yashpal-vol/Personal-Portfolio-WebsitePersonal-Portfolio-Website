@@ -15,7 +15,7 @@ A responsive portfolio website showcasing my projects and skills, built with HTM
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yashpal/portfolio-website.git
+   git clone https://github.com/yashpal-vol/Personal-Portfolio-WebsitePersonal-Portfolio-Website.git
    ```
 2. Open `index.html` in a browser to view the site.
 
